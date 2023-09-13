@@ -1,0 +1,14 @@
+
+<body>
+<div class="container">
+    <h1>Cardapio</h1>
+    <div class="row">
+        <div *ngFor="let menu of cardapios" class="col-md-3">
+            <img [src]="menu.imagem">
+            <h2>Prato: {{menu.prato}}</h2>
+            <h2>Preço: R${{menu.preco}}</h2>
+
+        </div>
+    </div>
+</div>
+</body>

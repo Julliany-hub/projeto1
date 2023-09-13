@@ -1,0 +1,27 @@
+{
+  "cardapio" : [
+      {
+      "prato":"Sushi",
+      "preco": 80,
+      "imagem":"assets/imagens/comida1.jpg"
+      },
+
+      {
+      "prato":"Peixe Cru",
+      "preco": 40,
+      "imagem":"assets/imagens/comida2.jpg"
+      },
+
+      {
+      "prato":"Salmão",
+      "preco": 20,
+      "imagem":"assets/imagens/comida3.png"
+      },
+
+      {
+      "prato":"Sashimi",
+      "preco": 25,
+      "imagem":"assets/imagens/comida4.png"
+      }
+  ]
+}
